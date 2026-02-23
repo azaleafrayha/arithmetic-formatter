@@ -1,8 +1,8 @@
 # Arithmetic Formatter
-This project is based on one of the certification progress on the FreeCodeCamp (FCC) Scientific Computing with Python curriculum. And I learnt a lot of stuff and got a lot of experiences like exploring the code, understanding the core, the algorithm, and especially solving the problems by myself without following step-by-step tutorials like the other FCC projects.
+This project is based on one of the certification progress on the freeCodeCamp Scientific Computing with Python curriculum. And I learnt a lot of stuff and got a lot of experiences like exploring the code, understanding the core, the algorithm, and especially solving the problems by myself without following step-by-step tutorials like the other FCC projects.
 
 ## Personal Tweak
-Originally, the FCC certification progress gave me numbers to print, but I changed it to `input()` so the users can input the problems by theirself on the terminal.
+Originally, the certification progress gave me numbers to print, but I changed it to `input()` so the users can input the problems by theirself on the terminal.
 
 ## Features
 * Arranges addition and subtraction problems vertically.
